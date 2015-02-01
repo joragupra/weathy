@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/joragupra/weathy.svg?branch=master)](https://travis-ci.org/joragupra/weathy)
+
 # Weathy
 
 Weathy is a library to get the weather information in your current location.
