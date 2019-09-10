@@ -4,4 +4,4 @@ flake8==2.3.0
 httplib2==0.8
 pyflakes==0.8.1
 requests==2.20.0
-urllib3==1.23
+urllib3>=1.24.2
